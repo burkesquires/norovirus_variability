@@ -1,5 +1,9 @@
 # norovirus_variability
 
+Gabriel I. Parra, R. Burke Squires, Consolee K. Karangwa, Jordan Johnson, Cara Lepore, Stanislav V. Sosnovtsev, and Kim Y. Green. [Static and Evolving Norovirus Genotypes: Implications for Epidemiology and Immunity](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006136). PLOS Pathogens. January 19, 2017
+
+The data for figures 1b and 2b wasgenerated with this program.
+
 # README
 
 norovirus_variability.py
@@ -26,7 +30,6 @@ In summary, add channels to the condo installer by typing:
 
 $ conda config --add channels conda-forge
 $ conda config --add channels defaults
-$ conda config --add channels r
 $ conda config --add channels bioconda
 
 Then install muscle:
